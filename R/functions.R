@@ -7,7 +7,8 @@
 #' @export
 #'
 #' @examples
-#' parse_one_file("compound_123.txt")
+#' example_path <- system.file("extdata", "example_data_lynx_summary.txt", package = "targetRlynx")
+#' parse_one_file(example_path)
 
 parse_one_file <- function(path) {
   tryCatch({

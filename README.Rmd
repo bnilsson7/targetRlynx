@@ -2,53 +2,90 @@
 output: github_document
 ---
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
-
-```{r, include = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>",
-  fig.path = "man/figures/README-",
-  out.width = "100%"
-)
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(eval = TRUE, echo = TRUE)
 ```
 
 # targetRlynx
 
-<!-- badges: start -->
-<!-- badges: end -->
+`targetRlynx` is an R package for parsing summary `.txt` files exported from TargetLynx, commonly used in LCMS workflows. It reads files and finds headers, extracts analyte blocks, and produces a clean data frame suitable for further analysis.
 
-The goal of targetRlynx is to ...
+GitHub Repository: [bnilsson7/targetRlynx](https://github.com/bnilsson7/targetRlynx)
+
+---
 
 ## Installation
 
-You can install the development version of targetRlynx like so:
-
-``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+```r
+# Install from GitHub
+remotes::install_github("bnilsson7/targetRlynx")
 ```
 
-## Example
+---
 
-This is a basic example which shows you how to solve a common problem:
+## Example Usage
 
-```{r example}
+```{r}
 library(targetRlynx)
-## basic example code
+
+# Path to sample data
+example_path <- system.file("extdata", "example_data_lynx_summary.txt", package = "targetRlynx")
+
+# Parse single file
+parsed <- processRlynx(example_path)
 ```
 
-What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so:
+---
 
-```{r cars}
-summary(cars)
+## Before & After Parsing
+
+### Raw File Preview (First 10 lines)
+
+```{r}
+raw_lines <- readLines(example_path, warn = FALSE)
+clean_lines <- iconv(raw_lines[1:10], from = "", to = "UTF-8", sub = "byte?")
+cat(paste(clean_lines, collapse = "\n"))
 ```
 
-You'll still need to render `README.Rmd` regularly, to keep `README.md` up-to-date. `devtools::build_readme()` is handy for this.
+### Parsed Output (First 10 rows)
 
-You can also embed plots, for example:
-
-```{r pressure, echo = FALSE}
-plot(pressure)
+```{r}
+print(parsed[1:10, c(3,7:10)])
 ```
 
-In that case, don't forget to commit and push the resulting figure files, so they display on GitHub and CRAN.
+---
+
+## Batch Parsing
+
+```{r eval = FALSE}
+# Parse all .txt files in a folder
+results <- processRlynx("path/to/folder/")
+```
+
+---
+
+## Functions
+
+- `parse_one_file(path)`: Parses a single `.txt` file  
+- `processRlynx(path)`: Parses one or many `.txt` files from a file or folder
+
+Each row includes:
+- Cleaned numeric columns
+- Analyte label
+- Source file name
+
+---
+
+## Citation
+
+If you use this package in publications:
+
+```
+Nilsson, B. (2025). targetRlynx: Summary File Parser for TargetLynx. R package. https://github.com/bnilsson7/targetRlynx
+```
+
+---
+
+## License
+
+MIT © B. Nilsson
