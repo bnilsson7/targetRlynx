@@ -101,7 +101,7 @@ Amphetamine
 94	94	20250619_194	360		Analyte	2.23	15930102	314597	50.637	bbIO				1.00	NO	6:12,G	6775.571	NO	0.695	0.632	
 95	95	20250619_195	684		Analyte	2.22	22018046	795248	27.687	bb		2940		1.00	NO	6:12,H	11155.808	NO	0.695	0.730	
 
-Compound 2:  Methamphetamine
+Compound 2:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.24	7452730	7981207	0.934	bb	0.000	23.6		1.00	NO	V:2	14527.624	YES	0.582	0.437	
@@ -200,7 +200,7 @@ Compound 2:  Methamphetamine
 94	94	20250619_194	360		Analyte			906214							NO	6:12,G		NO	0.582		
 95	95	20250619_195	684		Analyte			1141827		MM-					NO	6:12,H		NO	0.582		
 
-Compound 3:  4-FA
+Compound 3:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.30	3470360	7981207	0.435	bb	0.000	30.3		1.03	NO	V:2	6351.108	NO	0.764	0.749	
@@ -299,7 +299,7 @@ Compound 3:  4-FA
 94	94	20250619_194	360		Analyte			906214		MM-					NO	6:12,G		NO	0.764		
 95	95	20250619_195	684		Analyte			1141827							NO	6:12,H		NO	0.764		
 
-Compound 4:  Ephedrine
+Compound 4:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.05	2709288	4170126	0.650	bb	0.000	72.5		1.00	NO	V:2	5845.198	NO	1.170	1.157	
@@ -398,7 +398,7 @@ Compound 4:  Ephedrine
 94	94	20250619_194	360		Analyte			927475							NO	6:12,G		NO	1.170		
 95	95	20250619_195	684		Analyte			1104359							NO	6:12,H		NO	1.170		
 
-Compound 5:  Mephedrone
+Compound 5:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.37	393814	5923000	0.066	bb	0.000	35.9		1.00	NO	V:2	622.719	YES	0.039	0.029	
@@ -497,7 +497,7 @@ Compound 5:  Mephedrone
 94	94	20250619_194	360		Analyte			1152865							NO	6:12,G		NO	0.039		
 95	95	20250619_195	684		Analyte			1273302							NO	6:12,H		NO	0.039		
 
-Compound 6:  PMMA
+Compound 6:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.28	12402530	7981207	1.554	bb	0.000	24.7		1.02	NO	V:2	18729.049	NO	0.922	0.902	
@@ -596,7 +596,7 @@ Compound 6:  PMMA
 94	94	20250619_194	360		Analyte			906214							NO	6:12,G		NO	0.922		
 95	95	20250619_195	684		Analyte			1141827							NO	6:12,H		NO	0.922		
 
-Compound 7:  MDMA
+Compound 7:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.23	7312865	14966298	0.489	bb	0.000	21.6		1.00	NO	V:2	9886.259	YES	0.606	0.482	
@@ -695,7 +695,7 @@ Compound 7:  MDMA
 94	94	20250619_194	360		Analyte			1351956							NO	6:12,G		NO	0.606		
 95	95	20250619_195	684		Analyte			2351040							NO	6:12,H		NO	0.606		
 
-Compound 8:  Ketamine
+Compound 8:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.44	3143969	8644390	0.364	bb	0.000	32.9		1.00	NO	V:2	3425.346	YES	0.426	0.297	
@@ -794,7 +794,7 @@ Compound 8:  Ketamine
 94	94	20250619_194	360		Analyte	2.44	4160503	3088078	1.347	bb		124		1.00	NO	6:12,G	6480.102	YES	0.426	0.314	
 95	95	20250619_195	684		Analyte			3203844							NO	6:12,H		NO	0.426		
 
-Compound 9:  MDPV
+Compound 9:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.63	770117	625432	1.231	bb	0.000	16.4		1.00	NO	V:2	4069.357	NO	2.357	2.475	
@@ -893,7 +893,7 @@ Compound 9:  MDPV
 94	94	20250619_194	360		Analyte			101310		MM-					YES	6:12,G		NO	2.357		
 95	95	20250619_195	684		Analyte			106645							NO	6:12,H		NO	2.357		
 
-Compound 10:  Pentedrone
+Compound 10:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.53	2601600	5923000	0.439	bb	0.000	29.6		1.06	YES	V:2	11170.678	NO	1.109	1.121	
@@ -992,7 +992,7 @@ Compound 10:  Pentedrone
 94	94	20250619_194	360		Analyte			1152865							NO	6:12,G		NO	1.109		
 95	95	20250619_195	684		Analyte			1273302							NO	6:12,H		NO	1.109		
 
-Compound 11:  Alpha-PVP
+Compound 11:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.60	3712255	4365291	0.850	bb	0.000	31.6		1.00	NO	V:2	26586.494	NO	1.227	1.345	
@@ -1091,7 +1091,7 @@ Compound 11:  Alpha-PVP
 94	94	20250619_194	360		Analyte			1370106							NO	6:12,G		NO	1.227		
 95	95	20250619_195	684		Analyte			1457549							NO	6:12,H		NO	1.227		
 
-Compound 12:  Mitragynine
+Compound 12:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.86	1801670	5555079	0.324	bb	0.000	34.7		1.00	NO	V:2	11560.446	NO	2.467	2.770	
@@ -1190,7 +1190,7 @@ Compound 12:  Mitragynine
 94	94	20250619_194	360		Analyte			1937559		MM-					NO	6:12,G		NO	2.467		
 95	95	20250619_195	684		Analyte			1963853							NO	6:12,H		NO	2.467		
 
-Compound 13:  3-CMC
+Compound 13:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.43	13735608	5923000	2.319	bb	0.000	194		1.02	NO	V:2	6383.331	NO	10.118	9.792	
@@ -1289,7 +1289,7 @@ Compound 13:  3-CMC
 94	94	20250619_194	360		Analyte			1152865							NO	6:12,G		NO	10.118		
 95	95	20250619_195	684		Analyte			1273302							NO	6:12,H		NO	10.118		
 
-Compound 14:  Benzoylecgonine
+Compound 14:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.58	4332875	10039662	0.432	bb	0.000	78.5		1.00	NO	V:2	16404.450	NO	0.451	0.406	
@@ -1388,7 +1388,7 @@ Compound 14:  Benzoylecgonine
 94	94	20250619_194	360		Analyte			3352114		MM-					NO	6:12,G		NO	0.451		
 95	95	20250619_195	684		Analyte			3493913		MM-					NO	6:12,H		NO	0.451		
 
-Compound 15:  Ritalinic acid
+Compound 15:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.51	6851780	3544429	1.933	bb	0.000	94.5		1.01	NO	V:2	26001.577	NO	18.085	18.403	
@@ -1487,7 +1487,7 @@ Compound 15:  Ritalinic acid
 94	94	20250619_194	360		Analyte			316606							NO	6:12,G		NO	18.085		
 95	95	20250619_195	684		Analyte	2.49	22853	312396	0.073	bbI				1.00	YES	6:12,H	69.858	YES	18.085	9.839	
 
-Compound 16:  Methylphenidate
+Compound 16:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.55	243992	4920465	0.050	bb	0.000	24.1		1.00	NO	V:2	693.400	NO	0.074	0.074	
@@ -1586,7 +1586,7 @@ Compound 16:  Methylphenidate
 94	94	20250619_194	360		Analyte			484644							NO	6:12,G		NO	0.074		
 95	95	20250619_195	684		Analyte			1016858							NO	6:12,H		NO	0.074		
 
-Compound 17:  7-Aminoflunitrazepam
+Compound 17:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.80	2032946	5835511	0.348	bb	0.000	107		1.01	NO	V:2	37910.051	NO	0.794	0.764	
@@ -1685,7 +1685,7 @@ Compound 17:  7-Aminoflunitrazepam
 94	94	20250619_194	360		Analyte			4491373							NO	6:12,G		NO	0.794		
 95	95	20250619_195	684		Analyte			4367188							NO	6:12,H		NO	0.794		
 
-Compound 18:  7-Aminoclonazepam
+Compound 18:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.58	2686792	2154112	1.247	bb	0.000	203		1.00	NO	V:2	189042.829	NO	0.302	0.282	
@@ -1784,7 +1784,7 @@ Compound 18:  7-Aminoclonazepam
 94	94	20250619_194	360		Analyte			2930240		MM-					YES	6:12,G		NO	0.302		
 95	95	20250619_195	684		Analyte			3398385		MM-					NO	6:12,H		NO	0.302		
 
-Compound 19:  OH-Alprazolam
+Compound 19:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	3.55	159816	299097	0.534	bb	0.000	161		1.00	NO	V:2	2542.369	NO	33.995	32.171	
@@ -1883,7 +1883,7 @@ Compound 19:  OH-Alprazolam
 94	94	20250619_194	360		Analyte			407947		MM-					NO	6:12,G		NO	33.995		
 95	95	20250619_195	684		Analyte			703215		MM-					NO	6:12,H		NO	33.995		
 
-Compound 20:  OH-Phenazepam
+Compound 20:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	3.63	128036	299097	0.428	bb	0.000	216		1.02	NO	V:2	1055.026	NO	0.822	0.798	
@@ -1982,7 +1982,7 @@ Compound 20:  OH-Phenazepam
 94	94	20250619_194	360		Analyte			407947							NO	6:12,G		NO	0.822		
 95	95	20250619_195	684		Analyte			703215							NO	6:12,H		NO	0.822		
 
-Compound 21:  Oxazepam
+Compound 21:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	3.62	385398	335206	1.150	bb	0.000	182		1.00	NO	V:2	4591.070	NO	1.284	1.241	
@@ -2081,7 +2081,7 @@ Compound 21:  Oxazepam
 94	94	20250619_194	360		Analyte			488265							NO	6:12,G		NO	1.284		
 95	95	20250619_195	684		Analyte	3.62	53813704	811572	66.308	bb		9490		1.00	NO	6:12,H	276556.439	NO	1.284	1.067	
 
-Compound 22:  Temazepam
+Compound 22:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	3.70	270106	1174180	0.230	bb	0.000	76.6		1.00	NO	V:2	2681.881	NO	0.221	0.217	
@@ -2180,7 +2180,7 @@ Compound 22:  Temazepam
 94	94	20250619_194	360		Analyte			801742							NO	6:12,G		NO	0.221		
 95	95	20250619_195	684		Analyte			948747		MM-					YES	6:12,H		NO	0.221		
 
-Compound 23:  Lorazepam
+Compound 23:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	3.59	83758	299097	0.280	bb	0.000	169		1.01	NO	V:2	1311.543	NO	1.597	1.579	
@@ -2279,7 +2279,7 @@ Compound 23:  Lorazepam
 94	94	20250619_194	360		Analyte			407947							NO	6:12,G		NO	1.597		
 95	95	20250619_195	684		Analyte			703215							NO	6:12,H		NO	1.597		
 
-Compound 24:  THC-COOH
+Compound 24:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	4.36	2514	2858	0.880	bbIO	0.000			1.00	NO	V:2	0.000	NO	0.185	0.210	
@@ -2378,7 +2378,7 @@ Compound 24:  THC-COOH
 94	94	20250619_194	360		Analyte	4.36	15184	42020	0.361	bb		191		1.00	NO	6:12,G	0.000	NO	0.185	0.206	
 95	95	20250619_195	684		Analyte			42384		MM-					NO	6:12,H		NO	0.185		
 
-Compound 25:  Pregabalin
+Compound 25:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.18	1231970	1097896	1.122	bb	0.000	1010		1.00	YES	V:2	3222.925	NO	2.667	2.587	
@@ -2477,7 +2477,7 @@ Compound 25:  Pregabalin
 94	94	20250619_194	360		Analyte	2.17	24327902	49298	493.483	bb		444000		1.00	YES	6:12,G	76116.581	NO	2.667	2.523	
 95	95	20250619_195	684		Analyte	2.17	11278	100537	0.112	bb		101		1.00	YES	6:12,H	20.361	NO	2.667	2.310	
 
-Compound 26:  Gabapentin
+Compound 26:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.20	3028424	1097896	2.758	bb	0.000	1380		1.01	NO	V:2	9855.240	NO	0.492	0.532	
@@ -2576,7 +2576,7 @@ Compound 26:  Gabapentin
 94	94	20250619_194	360		Analyte			49298		MM-					YES	6:12,G		NO	0.492		
 95	95	20250619_195	684		Analyte			100537		MM-					NO	6:12,H		NO	0.492		
 
-Compound 27:  Tramadol
+Compound 27:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.53	2477716	14846577	0.167	bb	0.000	18.8		1.00	NO	V:2	6473.828	NO	0.159	0.154	
@@ -2675,7 +2675,7 @@ Compound 27:  Tramadol
 94	94	20250619_194	360		Analyte	2.53	84124096	2106341	39.939	bbIO				1.00	NO	6:12,G	13834.834	YES	0.159	0.636	
 95	95	20250619_195	684		Analyte			2446377		MM-					NO	6:12,H		NO	0.159		
 
-Compound 28:  EDDP
+Compound 28:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.92	315101	195360	1.613	bb	0.000	155		1.00	YES	V:2	1678.304	NO	1.259	1.329	
@@ -2774,7 +2774,7 @@ Compound 28:  EDDP
 94	94	20250619_194	360		Analyte			295650		MM-					YES	6:12,G		NO	1.259		
 95	95	20250619_195	684		Analyte			282923		MM-					YES	6:12,H		NO	1.259		
 
-Compound 29:  Methadone
+Compound 29:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	3.17	594535	177223	3.355	bb	0.000	556		1.00	NO	V:2	2473.773	NO	0.374	0.379	
@@ -2873,7 +2873,7 @@ Compound 29:  Methadone
 94	94	20250619_194	360		Analyte			848823							NO	6:12,G		NO	0.374		
 95	95	20250619_195	684		Analyte			863863							NO	6:12,H		NO	0.374		
 
-Compound 30:  Fentanyl
+Compound 30:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery			8068			0.000				NO	V:2		NO	1.008		
@@ -2972,7 +2972,7 @@ Compound 30:  Fentanyl
 94	94	20250619_194	360		Analyte			11213483							NO	6:12,G		NO	1.008		
 95	95	20250619_195	684		Analyte			10423604							NO	6:12,H		NO	1.008		
 
-Compound 31:  Buprenorphine
+Compound 31:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.99	13008	17446	0.746	bb	0.000	11.4		1.00	NO	V:2	1145.333	NO	0.837	0.861	
@@ -3071,7 +3071,7 @@ Compound 31:  Buprenorphine
 94	94	20250619_194	360		Analyte	2.99	125689	38673	3.250	bb		50.6		1.00	NO	6:12,G	10214.211	NO	0.837	0.901	
 95	95	20250619_195	684		Analyte	2.98	487247	34959	13.938	bb		237		1.00	NO	6:12,H	13295.734	NO	0.837	0.862	
 
-Compound 32:  Dextromethorphan
+Compound 32:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.93	2693413	177223	15.198	bb	0.000	513		0.93	NO	V:2	41229.692	NO	1.931	2.107	
@@ -3170,7 +3170,7 @@ Compound 32:  Dextromethorphan
 94	94	20250619_194	360		Analyte			848823							NO	6:12,G		NO	1.931		
 95	95	20250619_195	684		Analyte			863863							NO	6:12,H		NO	1.931		
 
-Compound 33:  6-MAM
+Compound 33:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.04	97204	63186	1.538	bb	0.000	31.3		1.00	NO	V:2	1114.939	NO	1.226	1.290	
@@ -3269,7 +3269,7 @@ Compound 33:  6-MAM
 94	94	20250619_194	360		Analyte			285788		MM-					NO	6:12,G		NO	1.226		
 95	95	20250619_195	684		Analyte			375761		MM-					NO	6:12,H		NO	1.226		
 
-Compound 34:  Morphine
+Compound 34:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	1.56	927323	506606	1.830	bb	0.000	746		1.00	NO	V:2	13631.671	NO	1.439	1.409	
@@ -3368,7 +3368,7 @@ Compound 34:  Morphine
 94	94	20250619_194	360		Analyte			760046							NO	6:12,G		NO	1.439		
 95	95	20250619_195	684		Analyte			841836							NO	6:12,H		NO	1.439		
 
-Compound 35:  Hydromorphone
+Compound 35:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery						0.000				NO	V:2		NO	1.606		
@@ -3467,7 +3467,7 @@ Compound 35:  Hydromorphone
 94	94	20250619_194	360		Analyte			1653806							NO	6:12,G		NO	1.606		
 95	95	20250619_195	684		Analyte			1685034							NO	6:12,H		NO	1.606		
 
-Compound 36:  Codeine
+Compound 36:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	1.91	1327688	951073	1.396	bb	0.000	295		1.00	NO	V:2	13330.198	NO	1.280	1.253	
@@ -3566,7 +3566,7 @@ Compound 36:  Codeine
 94	94	20250619_194	360		Analyte			1861195		MM-					NO	6:12,G		NO	1.280		
 95	95	20250619_195	684		Analyte			2094182		MM-					NO	6:12,H		NO	1.280		
 
-Compound 37:  Oxycodone
+Compound 37:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	1.98	1819302	1727018	1.053	bb	0.000	303		1.00	NO	V:2	6006.039	NO	1.313	1.381	
@@ -3665,7 +3665,7 @@ Compound 37:  Oxycodone
 94	94	20250619_194	360		Analyte			4478632		MM-					NO	6:12,G		NO	1.313		
 95	95	20250619_195	684		Analyte			4597986		MM-					NO	6:12,H		NO	1.313		
 
-Compound 38:  Zopiclone
+Compound 38:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.45	1882895	2633586	0.715	bb	0.000	179		1.00	NO	V:2	6895.939	NO	0.635	0.629	
@@ -3764,7 +3764,7 @@ Compound 38:  Zopiclone
 94	94	20250619_194	360		Analyte			4284471							NO	6:12,G		NO	0.635		
 95	95	20250619_195	684		Analyte			4472873							NO	6:12,H		NO	0.635		
 
-Compound 39:  Zolpidem acid
+Compound 39:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.27	9012503	6251397	1.442	bb	0.000	141		1.00	NO	V:2	44707.920	NO	2.057	1.952	
@@ -3863,7 +3863,7 @@ Compound 39:  Zolpidem acid
 94	94	20250619_194	360		Analyte			482702							NO	6:12,G		NO	2.057		
 95	95	20250619_195	684		Analyte			924920							NO	6:12,H		NO	2.057		
 
-Compound 40:  Amphetamine-D5
+Compound 40:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.21	3462660		3462659.750	bb	1.00	3.71	271.2	0.00	NO	V:2	8916.365				
@@ -3962,7 +3962,7 @@ Compound 40:  Amphetamine-D5
 94	94	20250619_194	360		Analyte	2.22	314597		314597.094	bd	1.00	0.337	-66.3	0.00	NO	6:12,G	426.533				
 95	95	20250619_195	684		Analyte	2.21	795248		795247.938	bb	1.00	0.853	-14.7	0.00	NO	6:12,H	902.626				
 
-Compound 41:  Methamphetamine-D5
+Compound 41:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.23	7981207		7981207.000	bb	1.00	6.35	534.7	0.00	NO	V:2	3915.879				
@@ -4061,7 +4061,7 @@ Compound 41:  Methamphetamine-D5
 94	94	20250619_194	360		Analyte	2.23	906214		906214.313	bb	1.00	0.721	-27.9	0.00	NO	6:12,G	374.983				
 95	95	20250619_195	684		Analyte	2.23	1141827		1141826.625	bb	1.00	0.908	-9.2	0.00	NO	6:12,H	651.199				
 
-Compound 42:  Pregabalin-13C3
+Compound 42:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery						1.00					V:2					
@@ -4160,7 +4160,7 @@ Compound 42:  Pregabalin-13C3
 94	94	20250619_194	360		Analyte						1.00					6:12,G					
 95	95	20250619_195	684		Analyte						1.00					6:12,H					
 
-Compound 43:  Ephedrine-D3
+Compound 43:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.04	4170126		4170126.000	bb	1.00	3.64	264.3	0.00	NO	V:2	7482.579				
@@ -4259,7 +4259,7 @@ Compound 43:  Ephedrine-D3
 94	94	20250619_194	360		Analyte	2.04	927475		927474.813	bb	1.00	0.810	-19.0	0.00	NO	6:12,G	944.469				
 95	95	20250619_195	684		Analyte	2.04	1104359		1104359.000	bb	1.00	0.965	-3.5	0.00	NO	6:12,H	331.326				
 
-Compound 44:  Gabapentin-D10
+Compound 44:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.18	1097896		1097895.750	bb	1.00	8.79	778.8	0.00	NO	V:2	4012.816				
@@ -4358,7 +4358,7 @@ Compound 44:  Gabapentin-D10
 94	94	20250619_194	360		Analyte	2.17	49298		49298.324	bb	1.00	0.395	-60.5	0.00	NO	6:12,G	300.365				
 95	95	20250619_195	684		Analyte	2.18	100537		100536.875	bb	1.00	0.805	-19.5	0.00	NO	6:12,H	336.821				
 
-Compound 45:  Mephedrone-D3
+Compound 45:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.37	5923000		5922999.500	bb	1.00	4.01	301.4	0.00	NO	V:2	17309.286				
@@ -4457,7 +4457,7 @@ Compound 45:  Mephedrone-D3
 94	94	20250619_194	360		Analyte	2.37	1152865		1152865.000	bb	1.00	0.781	-21.9	0.00	NO	6:12,G	3711.594				
 95	95	20250619_195	684		Analyte	2.37	1273302		1273302.250	bb	1.00	0.863	-13.7	0.00	NO	6:12,H	2487.379				
 
-Compound 46:  MDMA-D5
+Compound 46:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.22	14966298		14966298.000	bb	1.00	5.99	498.7	0.00	NO	V:2	60833.867				
@@ -4556,7 +4556,7 @@ Compound 46:  MDMA-D5
 94	94	20250619_194	360		Analyte	2.22	1351956		1351955.875	bb	1.00	0.541	-45.9	0.00	NO	6:12,G	2868.393				
 95	95	20250619_195	684		Analyte	2.22	2351040		2351039.750	bb	1.00	0.941	-5.9	0.00	NO	6:12,H	11283.573				
 
-Compound 47:  Ritalinic acid-D10
+Compound 47:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.49	3544429		3544429.000	bb	1.00	13.1	1208.0	0.00	NO	V:2	11559.043				
@@ -4655,7 +4655,7 @@ Compound 47:  Ritalinic acid-D10
 94	94	20250619_194	360		Analyte	2.49	316606		316606.344	bb	1.00	1.17	16.8	0.00	NO	6:12,G	1151.757				
 95	95	20250619_195	684		Analyte	2.49	312396		312395.500	bb	1.00	1.15	15.3	0.00	NO	6:12,H	641.922				
 
-Compound 48:  Alpha-PVP-D8
+Compound 48:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.60	4365291		4365290.500	bb	1.00	2.87	187.4	0.00	NO	V:2	22085.581				
@@ -4754,7 +4754,7 @@ Compound 48:  Alpha-PVP-D8
 94	94	20250619_194	360		Analyte	2.59	1370106		1370106.000	bb	1.00	0.902	-9.8	0.00	NO	6:12,G	15840.996				
 95	95	20250619_195	684		Analyte	2.59	1457549		1457548.875	bb	1.00	0.960	-4.0	0.00	NO	6:12,H	13302.260				
 
-Compound 49:  Methylphenidate-D9
+Compound 49:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.54	4920465		4920465.000	bb	1.00	4.99	398.8	0.00	NO	V:2	17628.974				
@@ -4853,7 +4853,7 @@ Compound 49:  Methylphenidate-D9
 94	94	20250619_194	360		Analyte	2.54	484644		484643.500	bb	1.00	0.491	-50.9	0.00	NO	6:12,G	579.162				
 95	95	20250619_195	684		Analyte	2.54	1016858		1016858.000	bb	1.00	1.03	3.1	0.00	NO	6:12,H	2916.459				
 
-Compound 50:  Ketamine-D4
+Compound 50:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.44	8644390		8644390.000	bb	1.00	2.71	171.1	0.00	NO	V:2	35920.289				
@@ -4952,7 +4952,7 @@ Compound 50:  Ketamine-D4
 94	94	20250619_194	360		Analyte	2.43	3088078		3088078.000	bb	1.00	0.969	-3.1	0.00	NO	6:12,G	7305.379				
 95	95	20250619_195	684		Analyte	2.43	3203844		3203844.000	bb	1.00	1.00	0.5	0.00	NO	6:12,H	8120.164				
 
-Compound 51:  Tramadol-D3
+Compound 51:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.52	14846577		14846577.000	bb	1.00	6.07	506.8	0.00	NO	V:2	44955.225				
@@ -5051,7 +5051,7 @@ Compound 51:  Tramadol-D3
 94	94	20250619_194	360		Analyte	2.52	2106341		2106340.750	bb	1.00	0.861	-13.9	0.00	NO	6:12,G	2130.677				
 95	95	20250619_195	684		Analyte	2.52	2446377		2446376.750	bb	1.00	1.00	-0.0	0.00	NO	6:12,H	2630.235				
 
-Compound 52:  MDPV-D8
+Compound 52:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.63	625432		625432.063	bb	1.00	5.91	491.3	0.00	NO	V:2	3451.223				
@@ -5150,7 +5150,7 @@ Compound 52:  MDPV-D8
 94	94	20250619_194	360		Analyte	2.62	101310		101310.445	bb	1.00	0.958	-4.2	0.00	NO	6:12,G	450.416				
 95	95	20250619_195	684		Analyte	2.62	106645		106644.641	bb	1.00	1.01	0.8	0.00	NO	6:12,H	328.729				
 
-Compound 53:  EDDP-D3
+Compound 53:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.91	195360		195360.313	bb	1.00	0.691	-30.9	1.00	NO	V:2	1361.669				
@@ -5249,7 +5249,7 @@ Compound 53:  EDDP-D3
 94	94	20250619_194	360		Analyte	2.91	295650		295650.250	bb	1.00	1.05	4.5	1.00	NO	6:12,G	1530.224				
 95	95	20250619_195	684		Analyte	2.91	282923		282923.063	bb	1.00	1.00	0.0	1.00	NO	6:12,H	1006.182				
 
-Compound 54:  7-Aminoflunitrazepam-D7
+Compound 54:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.78	5835511		5835510.500	bb	1.00	1.31	30.5	0.00	NO	V:2	80000.158				
@@ -5348,7 +5348,7 @@ Compound 54:  7-Aminoflunitrazepam-D7
 94	94	20250619_194	360		Analyte	2.77	4491373		4491372.500	bb	1.00	1.00	0.5	0.00	NO	6:12,G	44070.459				
 95	95	20250619_195	684		Analyte	2.77	4367188		4367187.500	bb	1.00	0.977	-2.3	0.00	NO	6:12,H	37638.118				
 
-Compound 55:  7-Aminoclonazepam-D4
+Compound 55:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.57	2154112		2154111.750	bb	1.00	0.576	-42.4	0.00	NO	V:2	36301.879				
@@ -5447,7 +5447,7 @@ Compound 55:  7-Aminoclonazepam-D4
 94	94	20250619_194	360		Analyte	2.57	2930240		2930240.000	bb	1.00	0.784	-21.6	0.00	NO	6:12,G	25373.040				
 95	95	20250619_195	684		Analyte	2.56	3398385		3398385.250	bb	1.00	0.909	-9.1	0.00	NO	6:12,H	28817.941				
 
-Compound 56:  Morphine-D6
+Compound 56:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	1.56	506606		506606.250	bb	1.00	0.665	-33.5	1.00	NO	V:2	10763.636				
@@ -5546,7 +5546,7 @@ Compound 56:  Morphine-D6
 94	94	20250619_194	360		Analyte	1.54	760046		760045.625	bb	1.00	0.998	-0.2	1.00	NO	6:12,G	151.437				
 95	95	20250619_195	684		Analyte	1.55	841836		841835.688	bb	1.00	1.11	10.5	1.00	NO	6:12,H	288.396				
 
-Compound 57:  Hydromorphone-D6
+Compound 57:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery						1.00				NO	V:2					
@@ -5645,7 +5645,7 @@ Compound 57:  Hydromorphone-D6
 94	94	20250619_194	360		Analyte	1.67	1653806		1653806.000	bb	1.00	0.875	-12.5	0.00	NO	6:12,G	102.266				
 95	95	20250619_195	684		Analyte	1.67	1685034		1685034.125	bb	1.00	0.891	-10.9	0.00	NO	6:12,H	301.040				
 
-Compound 58:  Oxazepam-D5
+Compound 58:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	3.61	335206		335206.063	bb	1.00	0.699	-30.1	1.00	NO	V:2	7397.129				
@@ -5744,7 +5744,7 @@ Compound 58:  Oxazepam-D5
 94	94	20250619_194	360		Analyte	3.61	488265		488264.594	bb	1.00	1.02	1.8	1.00	NO	6:12,G	4767.517				
 95	95	20250619_195	684		Analyte	3.61	811572		811571.625	bb	1.00	1.69	69.2	1.00	NO	6:12,H	10049.926				
 
-Compound 59:  Benzoylecgonine-D3
+Compound 59:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.58	10039662		10039662.000	bb	1.00	2.49	148.6	1.00	NO	V:2	5354.629				
@@ -5843,7 +5843,7 @@ Compound 59:  Benzoylecgonine-D3
 94	94	20250619_194	360		Analyte	2.58	3352114		3352113.500	bb	1.00	0.830	-17.0	1.00	NO	6:12,G	3033.599				
 95	95	20250619_195	684		Analyte	2.58	3493913		3493913.250	bb	1.00	0.865	-13.5	1.00	NO	6:12,H	2906.694				
 
-Compound 60:  Codeine-D3
+Compound 60:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	1.91	951073		951073.000	bb	1.00	0.510	-49.0	1.00	NO	V:2	3849.299				
@@ -5942,7 +5942,7 @@ Compound 60:  Codeine-D3
 94	94	20250619_194	360		Analyte	1.90	1861195		1861194.750	bb	1.00	0.998	-0.2	1.00	NO	6:12,G	3116.137				
 95	95	20250619_195	684		Analyte	1.91	2094182		2094182.000	bb	1.00	1.12	12.3	1.00	NO	6:12,H	6559.895				
 
-Compound 61:  Temazepam-D5
+Compound 61:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	3.69	1174180		1174180.125	bb	1.00	1.37	36.7	0.00	NO	V:2	53697.521				
@@ -6041,7 +6041,7 @@ Compound 61:  Temazepam-D5
 94	94	20250619_194	360		Analyte	3.69	801742		801741.750	bb	1.00	0.934	-6.6	0.00	NO	6:12,G	52052.421				
 95	95	20250619_195	684		Analyte	3.69	948747		948746.500	bb	1.00	1.10	10.5	0.00	NO	6:12,H	17461.125				
 
-Compound 62:  Methadone-D9
+Compound 62:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	3.17	177223		177222.563	bb	1.00	0.204	-79.6	1.00	NO	V:2	3414.420				
@@ -6140,7 +6140,7 @@ Compound 62:  Methadone-D9
 94	94	20250619_194	360		Analyte	3.16	848823		848823.313	bb	1.00	0.979	-2.1	1.00	NO	6:12,G	13500.847				
 95	95	20250619_195	684		Analyte	3.16	863863		863863.000	bb	1.00	0.996	-0.4	1.00	NO	6:12,H	37975.280				
 
-Compound 63:  Oxycodone-D3
+Compound 63:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	1.98	1727018		1727017.875	bb	1.00	0.382	-61.8	1.00	NO	V:2	3741.114				
@@ -6239,7 +6239,7 @@ Compound 63:  Oxycodone-D3
 94	94	20250619_194	360		Analyte	1.98	4478632		4478632.000	bb	1.00	0.991	-0.9	1.00	NO	6:12,G	18979.516				
 95	95	20250619_195	684		Analyte	1.98	4597986		4597986.000	bb	1.00	1.02	1.7	1.00	NO	6:12,H	11855.088				
 
-Compound 64:  OH-Alprazolam-D5
+Compound 64:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	3.54	299097		299096.594	bb	1.00	0.674	-32.6	0.00	NO	V:2	9904.635				
@@ -6338,7 +6338,7 @@ Compound 64:  OH-Alprazolam-D5
 94	94	20250619_194	360		Analyte	3.54	407947		407946.781	bb	1.00	0.920	-8.0	0.00	NO	6:12,G	4554.926				
 95	95	20250619_195	684		Analyte	3.54	703215		703215.313	bb	1.00	1.59	58.6	0.00	NO	6:12,H	7506.644				
 
-Compound 65:  6-MAM-D3
+Compound 65:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.04	63186		63185.871	bb	1.00	0.184	-81.6	0.00	NO	V:2	582.540				
@@ -6437,7 +6437,7 @@ Compound 65:  6-MAM-D3
 94	94	20250619_194	360		Analyte	2.03	285788		285787.813	bb	1.00	0.831	-16.9	0.00	NO	6:12,G	2366.834				
 95	95	20250619_195	684		Analyte	2.03	375761		375760.719	bb	1.00	1.09	9.3	0.00	NO	6:12,H	1720.666				
 
-Compound 66:  Zolpidem acid-D4
+Compound 66:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.27	6251397		6251396.500	bb	1.00	4.58	358.4	0.00	NO	V:2	28167.064				
@@ -6536,7 +6536,7 @@ Compound 66:  Zolpidem acid-D4
 94	94	20250619_194	360		Analyte	2.26	482702		482701.969	bb	1.00	0.354	-64.6	0.00	NO	6:12,G	1838.205				
 95	95	20250619_195	684		Analyte	2.27	924920		924920.188	bb	1.00	0.678	-32.2	0.00	NO	6:12,H	5711.427				
 
-Compound 67:  Zopiclone-D4
+Compound 67:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.44	2633586		2633586.250	bb	1.00	0.586	-41.4	1.00	NO	V:2	13100.119				
@@ -6635,7 +6635,7 @@ Compound 67:  Zopiclone-D4
 94	94	20250619_194	360		Analyte	2.44	4284471		4284471.000	bb	1.00	0.954	-4.6	1.00	NO	6:12,G	7342.146				
 95	95	20250619_195	684		Analyte	2.44	4472873		4472872.500	bb	1.00	0.996	-0.4	1.00	NO	6:12,H	12907.667				
 
-Compound 68:  Mitragynine-D3
+Compound 68:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.85	5555079		5555079.000	bb	1.00	2.76	176.1	0.00	NO	V:2	27499.607				
@@ -6734,7 +6734,7 @@ Compound 68:  Mitragynine-D3
 94	94	20250619_194	360		Analyte	2.85	1937559		1937558.750	bb	1.00	0.963	-3.7	0.00	NO	6:12,G	29486.591				
 95	95	20250619_195	684		Analyte	2.85	1963853		1963852.625	bb	1.00	0.976	-2.4	0.00	NO	6:12,H	9716.445				
 
-Compound 69:  Buprenorphine-D4
+Compound 69:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.98	17446		17446.258	bb	1.00	0.386	-61.4	1.00	NO	V:2	1600.805				
@@ -6833,7 +6833,7 @@ Compound 69:  Buprenorphine-D4
 94	94	20250619_194	360		Analyte	2.98	38673		38672.719	bb	1.00	0.856	-14.4	1.00	NO	6:12,G	2725.525				
 95	95	20250619_195	684		Analyte	2.98	34959		34959.137	bb	1.00	0.774	-22.6	1.00	NO	6:12,H	1868.817				
 
-Compound 70:  THC-COOH-D3
+Compound 70:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	4.36	2858		2858.288	bb	1.00	0.0703	-93.0	0.00	NO	V:2	821.083				
@@ -6932,7 +6932,7 @@ Compound 70:  THC-COOH-D3
 94	94	20250619_194	360		Analyte	4.36	42020		42019.598	bb	1.00	1.03	3.4	0.00	NO	6:12,G	5026.818				
 95	95	20250619_195	684		Analyte	4.36	42384		42383.691	bb	1.00	1.04	4.3	0.00	NO	6:12,H	9793.401				
 
-Compound 71:  Fentanyl-D5
+Compound 71:
 
 	#	Name	ID	Sample Text	Type	RT	Area	IS Area	Response	Primary Flags	Std. Conc	Conc.	%Dev	RRT	R.T. Tolerance Flag	Vial	S/N	1º Ratio Flag	1º Ratio (Pred)	1º Ratio (Actual)	Quantify Reference
 1	1	20250619_101	SST		Recovery	2.82	8068		8068.330	bb	1.00	0.000710	-99.9	0.00	NO	V:2	35.931				
