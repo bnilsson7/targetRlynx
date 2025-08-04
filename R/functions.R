@@ -15,23 +15,24 @@ parse_one_file <- function(path) {
     # Read and clean lines
     lines <- base::readLines(path, warn = FALSE)
     lines <- base::iconv(lines, from = "UTF-8", to = "UTF-8", sub = "?")
-    lines <- lines[base::nzchar(trimws(lines))]
+    lines <- lines[base::nzchar(base::trimws(lines))]
 
-    if (length(lines) == 0) stop("File is empty or unreadable: ", path)
-
-    # Step 1: Repeated lines as header candidates
-    header_candidates <- lines[base::duplicated(lines)]
-
-    # Step 2: Check there are duplicates, double check its expected header for LCMS data including Area, RT, or Name
-    if (length(header_candidates) > 0) {
-      header_candidates <- lines[
-        base::grepl("\\b(RT|Area|Name)\\b", lines) & base::grepl("\t", lines)
-      ]
+    if (base::length(lines) < 2) {
+      base::stop("File is empty or unreadable: ", path)
     }
 
-    # Step 3: Fallback if header is not found
-    if (length(header_candidates) == 0) {
-      stop("No valid header found in file: ", path)
+    is_candidate <- base::grepl("\\b(RT|Area|Name)\\b", lines) & base::grepl("\t", lines)
+    duplicated_lines <- base::duplicated(lines)
+    candidate_lines <- lines[is_candidate]
+
+    if (base::any(duplicated_lines)) {
+      header_candidates <- lines[duplicated_lines & is_candidate]
+    } else {
+      header_candidates <- candidate_lines
+    }
+
+    if (base::length(header_candidates) == 0) {
+      base::stop("No valid header found in file: ", path)
     }
 
     # Pick best header candidate
